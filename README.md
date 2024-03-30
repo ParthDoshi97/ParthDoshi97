@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParthDoshi97
 - 👀 I’m interested in Bioinformatics 
-- 🌱 I’m currently learning different ways to analysis of bioological Data
+- 🌱 I’m currently learning different ways to analysis of biological Data
 - 💞️ I’m looking to collaborate on any Bioinformatics project
 - 📫 How to reach me parthdosshi@outlook.com
 - 😄 Pronouns: ...
