@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on developing **Snp panal and Biostatstical Analysis as Freelancer**
  
- 🌱 I’m currently learning **Tablaue SQl and Different Omics data Anylsis**
+ 🌱 I’m currently learning **Tablaue SQl and Different Omics data Analysis**
 
 💬 Ask me about **Bioinformatic Anaylsis of Metagenomic, Trascriptomics and ML in filed of Biology**
 
